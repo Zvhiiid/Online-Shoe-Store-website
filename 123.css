@@ -1,0 +1,36 @@
+<html> 
+<head> 
+<style>
+
+p{
+text-align: center;
+color: red;
+}
+#para1 {
+text-align: right;
+color: maroon;
+}
+.center {
+text-align: left;
+color: blue;
+}
+h3,h1,p{
+text-align: center;
+color: maroon;
+}
+body {
+	background-color:skyblue;
+	}
+	h1 {
+		background-color:yellow;
+	}
+	background-image-
+	
+body {
+	background-image:url("99.jpg");
+	}	
+
+</style> 
+
+</head>
+</html>
